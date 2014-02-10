@@ -1,0 +1,17 @@
+{
+  "name": "nathanielks/wp-admin-notice",
+  "type": "library",
+  "license": "GPL-2.0+",
+  "description": "A simple class for displaying admin notices in the WordPress admin.",
+  "homepage": "https://gist.github.com/nathanielks/8910601.git",
+  "authors": [
+    {
+      "name": "Nathaniel Schweinberg",
+      "email": "nathaniel@fightthecurrent.org",
+      "homepage": "http://fightthecurrent.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "": "" }
+  }
+}
