@@ -12,6 +12,6 @@ class WP_Admin_Notice {
     }
 
     function output(){
-        echo '<div id="message" class="' . $this->class .'"><p>' . $this->message . '</p></div>';
+        echo '<div class="message ' . $this->class .'"><p>' . $this->message . '</p></div>';
     }
 }
